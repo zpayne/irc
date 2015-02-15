@@ -9,6 +9,9 @@
 
 Welcome to your IRC project on Cloud9 IDE!
 
+####Dependencies
+`sudo easy_install flask-socketio`
+
 # IRC Project 1
 
 ## Partner (or Individual) task
